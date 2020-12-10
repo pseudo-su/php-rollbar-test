@@ -1,0 +1,17 @@
+{
+    "name": "jstableford/php-rollbar-test",
+    "description": "Script to test sending errors to rollbar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "John Stableford",
+            "email": "john.stableford@catch.com.au"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0",
+        "rollbar/rollbar": "~1.5",
+        "vlucas/phpdotenv": "^5.2",
+        "cekurte/environment": "^0.3.0"
+    }
+}
